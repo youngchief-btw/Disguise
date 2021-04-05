@@ -1,0 +1,7 @@
+main: org.spigotmc.testplugin.Test
+name: MyPlugin
+version: 1.0.0
+description: This plugin does so much stuff it can't be contained!
+load: STARTUP
+author: youngchief@youngchief.tk
+website: disguise.youngchief.tk
