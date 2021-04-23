@@ -1,7 +1,11 @@
-main: org.spigotmc.testplugin.Test
-name: MyPlugin
+main: tk.youngchief.Disguise.Main
+name: Disguise
 version: 1.0.0
-description: This plugin does so much stuff it can't be contained!
+description: This plugin does cool appearance changes for players
 load: STARTUP
 author: youngchief@youngchief.tk
 website: disguise.youngchief.tk
+commands:
+  nick:
+    description: Hide your username!
+    usage: /nick <set/clear> <nick to use> <other params>
